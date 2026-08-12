@@ -22,11 +22,11 @@
   <img
     height="170"
     alt="GitHub Stats"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=eluvane&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=A78BFA&amp;text_color=CBD5E1&amp;icon_color=818CF8"
+    src="https://github-stats-extended.vercel.app/api?username=eluvane&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=A78BFA&amp;text_color=CBD5E1&amp;icon_color=818CF8"
   />
   <img
     height="170"
     alt="Top Languages"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eluvane&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=A78BFA&amp;text_color=CBD5E1"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=eluvane&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=A78BFA&amp;text_color=CBD5E1"
   />
 </p>
