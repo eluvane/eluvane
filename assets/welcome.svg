@@ -15,21 +15,21 @@
   <defs>
     <linearGradient id="linear" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="854" y2="0" spreadMethod="repeat">
       <stop offset="0%" stop-color="#1E1B4B" />
-      <stop offset="6.25%" stop-color="#312B86" />
-      <stop offset="12.5%" stop-color="#4139B8" />
-      <stop offset="18.75%" stop-color="#4B43D9" />
+      <stop offset="6.25%" stop-color="#2A2672" />
+      <stop offset="12.5%" stop-color="#373198" />
+      <stop offset="18.75%" stop-color="#433BBF" />
       <stop offset="25%" stop-color="#4F46E5" />
-      <stop offset="31.25%" stop-color="#4B43D9" />
-      <stop offset="37.5%" stop-color="#4139B8" />
-      <stop offset="43.75%" stop-color="#312B86" />
+      <stop offset="31.25%" stop-color="#433BBF" />
+      <stop offset="37.5%" stop-color="#373198" />
+      <stop offset="43.75%" stop-color="#2A2672" />
       <stop offset="50%" stop-color="#1E1B4B" />
-      <stop offset="56.25%" stop-color="#17183B" />
-      <stop offset="62.5%" stop-color="#11152D" />
-      <stop offset="68.75%" stop-color="#0C1323" />
+      <stop offset="56.25%" stop-color="#191940" />
+      <stop offset="62.5%" stop-color="#151736" />
+      <stop offset="68.75%" stop-color="#10142B" />
       <stop offset="75%" stop-color="#0B1220" />
-      <stop offset="81.25%" stop-color="#0C1323" />
-      <stop offset="87.5%" stop-color="#11152D" />
-      <stop offset="93.75%" stop-color="#17183B" />
+      <stop offset="81.25%" stop-color="#10142B" />
+      <stop offset="87.5%" stop-color="#151736" />
+      <stop offset="93.75%" stop-color="#191940" />
       <stop offset="100%" stop-color="#1E1B4B" />
     </linearGradient>
     <clipPath id="top-rounded">
