@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="220" viewBox="0 0 854 220">
+  <!-- The gradient and waves share one translation and one seamless period. -->
+  <style>
+    .text {
+      font-size: 54px;
+      font-weight: 700;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="linear" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="854" y2="0" spreadMethod="repeat">
+      <stop offset="0%" stop-color="#1E1B4B" />
+      <stop offset="25%" stop-color="#4F46E5" />
+      <stop offset="50%" stop-color="#1E1B4B" />
+      <stop offset="75%" stop-color="#0B1220" />
+      <stop offset="100%" stop-color="#1E1B4B" />
+    </linearGradient>
+    <clipPath id="top-rounded">
+      <path d="M 6 0 H 848 A 6 6 0 0 1 854 6 V 220 H 0 V 6 A 6 6 0 0 1 6 0 Z" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#top-rounded)">
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="854 0"
+        dur="20s"
+        repeatCount="indefinite"
+        calcMode="linear"
+      />
+      <path
+        d="M -854 0 V 194 Q -640.5 174 -427 194 T 0 194 T 427 194 T 854 194 T 1281 194 T 1708 194 V 0 Z"
+        transform="translate(-120 0)"
+        fill="url(#linear)"
+        opacity="0.4"
+      />
+      <path
+        d="M -854 0 V 202 Q -640.5 178 -427 202 T 0 202 T 427 202 T 854 202 T 1281 202 T 1708 202 V 0 Z"
+        fill="url(#linear)"
+        opacity="0.4"
+      />
+    </g>
+  </g>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="50%" class="text" fill="#E2E8F0">WELCOME</text>
+</svg>
