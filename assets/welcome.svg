@@ -14,11 +14,23 @@
   </style>
   <defs>
     <linearGradient id="linear" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="854" y2="0" spreadMethod="repeat">
-      <stop offset="0%" stop-color="#1E1B4B" />
-      <stop offset="25%" stop-color="#4F46E5" />
-      <stop offset="50%" stop-color="#1E1B4B" />
-      <stop offset="75%" stop-color="#0B1220" />
-      <stop offset="100%" stop-color="#1E1B4B" />
+      <stop offset="0%" stop-color="#3C3487" />
+      <stop offset="6.25%" stop-color="#42399C" />
+      <stop offset="12.5%" stop-color="#473EAF" />
+      <stop offset="18.75%" stop-color="#4B42BB" />
+      <stop offset="25%" stop-color="#4C43BF" />
+      <stop offset="31.25%" stop-color="#4B42BB" />
+      <stop offset="37.5%" stop-color="#473EAF" />
+      <stop offset="43.75%" stop-color="#42399C" />
+      <stop offset="50%" stop-color="#3C3487" />
+      <stop offset="56.25%" stop-color="#352E72" />
+      <stop offset="62.5%" stop-color="#30295F" />
+      <stop offset="68.75%" stop-color="#2C2553" />
+      <stop offset="75%" stop-color="#2B244F" />
+      <stop offset="81.25%" stop-color="#2C2553" />
+      <stop offset="87.5%" stop-color="#30295F" />
+      <stop offset="93.75%" stop-color="#352E72" />
+      <stop offset="100%" stop-color="#3C3487" />
     </linearGradient>
     <clipPath id="top-rounded">
       <path d="M 6 0 H 848 A 6 6 0 0 1 854 6 V 220 H 0 V 6 A 6 6 0 0 1 6 0 Z" />
@@ -31,7 +43,7 @@
         type="translate"
         from="0 0"
         to="854 0"
-        dur="20s"
+        dur="24s"
         repeatCount="indefinite"
         calcMode="linear"
       />
